@@ -2,7 +2,8 @@
 
 This repository is for the delivery of your final project.
 
-Do the \[GIT_COLLABORATION_EXERCISE.md\]
+Do the [GIT_COLLABORATION_EXERCISE.md](GIT_COLLABORATION_EXERCISE.md)
+with your whole time first!
 
 You can use the file `report.qmd`.  
 Create more files on your own as needed.  

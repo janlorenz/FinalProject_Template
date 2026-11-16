@@ -15,7 +15,7 @@ format:
     number-sections: true
 ---
 
-## Introduction
+# Introduction
 
 <!-- 
 In this section describe: 
@@ -26,7 +26,7 @@ In this section describe:
 
 This text will be replace by your introduction.
 
-## Data 
+# Data 
 
 <!-- Put the dataset you want to use into this repository and import it in a chunk here. Describe the relevant aspects of the data here. Also some basic data preparation can already happen here. 
 
@@ -41,13 +41,15 @@ This text will be replace by your text about data import.
 # Import your data here. 
 ```
 
-## Analysis
+# Analysis
 
 <!--
 In this section: 
 Text describing the steps of analysis and some well crafted code chunks with visualization(s) and statistical analyses that assesses the research questions.
 -->
-  
+
+## Make Subsections as Needed (rename or remove this one!)
+
 This text will be replaced by your analysis.   
 
 ```{r}
@@ -66,7 +68,7 @@ This text will be replaced by your analysis.
 <!-- There can be more chunks of your choice-->
 
 
-## Conclusion
+# Conclusion
 
 <!-- 
 In this section: 
