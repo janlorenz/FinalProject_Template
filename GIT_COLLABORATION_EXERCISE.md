@@ -244,4 +244,13 @@ access, but when someone wants to propose a new better version to the
 project maintainers (who have push access) they can make a pull request.
 The maintainer then checks it and pulls it into the `main` branch.
 
-![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33)
+![Cartoon showing paths between local and remote git repositories. White
+bunnies push packages around representing git-tracked file changes. One
+bunny moves packages into a staging area (git add), which are then moved
+to the local branch with git commit, which are then pushed to the remote
+branch with git push. A bunny in the remote branch yells to the remote
+main “got some new stuff! Should we bring it over?” (with text Pull
+Request above the speech bubble) while a bunny in the remote main branch
+says “everything looks good, bring it on over!” A bunny pulls a cart
+from the remote branch to remote main, with text “merge” next to
+it.](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33)
