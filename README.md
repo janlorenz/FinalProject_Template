@@ -1,7 +1,11 @@
-This repository is for the delivery of your final project. 
+# Final Project
 
-You can use the document report.qmd. 
-You are also free to create a document on your own. 
-You are free to do the project in python instead of R. 
+This repository is for the delivery of your final project.
 
-Read the syllabus about assessment criteria. 
+Do the \[GIT_COLLABORATION_EXERCISE.md\]
+
+You can use the file `report.qmd`.  
+Create more files on your own as needed.  
+Do the project in R or python.  
+If you want to make this repository public you can put some short
+description here instead of this text.
