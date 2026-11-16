@@ -229,7 +229,7 @@ Now you know how to solve merge conflicts. Practice a bit in your team.
 
 ## Background and Outlook
 
-Two more illustrations of [Allison
+More illustrations of [Allison
 Horst](https://allisonhorst.com/git-github)
 
 ![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/33f12eb3-e65b-46df-9a2e-e4b24a4b59cd_rw_3840.png?h=6f05681451d60f6ba15ae8f7cef56ba2)
