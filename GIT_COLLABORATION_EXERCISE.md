@@ -232,32 +232,9 @@ Now you know how to solve merge conflicts. Practice a bit in your team.
 Two more illustrations of [Allison
 Horst](https://allisonhorst.com/git-github)
 
-![A row of 6 cute smiling monsters celebrating using GitHub. The first,
-wearing a climbing harness labeled “Me” is high-fiving another whose
-harness says “Future Me”. Others hold a box of snacks that are tacos, a
-map, and a rope. Text above the monsters quotes Jenny Bryan:
-“Collaboration is the most compelling reason to manage a project with
-Git and GitHub. My definition of collaboration includes hands-on
-participation by multiple people, including your past and future self,
-as well as an asymmetric model, in which some people are active makers
-and others only read or
-review.”](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/33f12eb3-e65b-46df-9a2e-e4b24a4b59cd_rw_3840.png?h=6f05681451d60f6ba15ae8f7cef56ba2)
+![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/33f12eb3-e65b-46df-9a2e-e4b24a4b59cd_rw_3840.png?h=6f05681451d60f6ba15ae8f7cef56ba2)
 
-![Left panel, against a blue sky with white clouds, a confident-looking
-monster climbs a rock face. Their rope’s anchors, secured with
-carabiners, are labeled from bottom to top and say “Initial commit”,
-“Data Cleaned”, “Analysis completed”. Another anchor on their harness,
-ready to place, is labeled “Manuscript drafted”. Right panel, against a
-gray sky with rain and lightning, a stressed-looking monster climbs a
-rock face. Their rope has a knot, is frayed, and is looped around one
-foot. Their anchors, placed haphazardly and not well-secured, are
-labeled things like “analysis_final_v2.xls”, “analysis_final_final.xls”,
-and “ignore_this.xls”. Text above the left panel says “When working with
-GitHub we can navigate with more obvious, safe, streamlined routes that
-let us focus on the science-y things we want to do…” Text above the
-right panel says: “…but working without GitHub can be disorienting, with
-too much time spent sifting through past work to figure out next steps
-forward.”](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/7a5f458a-3d63-4e46-8a09-c417e52587ea.png?h=488d2d9a4159f82cdf851a70182e52e6)
+![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/7a5f458a-3d63-4e46-8a09-c417e52587ea.png?h=488d2d9a4159f82cdf851a70182e52e6)
 
 A more advanced github workflow also includes branches and pull
 requests. Here you get a first idea. You may create a branch to test a
@@ -267,13 +244,4 @@ access, but when someone wants to propose a new better version to the
 project maintainers (who have push access) they can make a pull request.
 The maintainer then checks it and pulls it into the `main` branch.
 
-![Cartoon showing paths between local and remote git repositories. White
-bunnies push packages around representing git-tracked file changes. One
-bunny moves packages into a staging area (git add), which are then moved
-to the local branch with git commit, which are then pushed to the remote
-branch with git push. A bunny in the remote branch yells to the remote
-main “got some new stuff! Should we bring it over?” (with text Pull
-Request above the speech bubble) while a bunny in the remote main branch
-says “everything looks good, bring it on over!” A bunny pulls a cart
-from the remote branch to remote main, with text “merge” next to
-it.](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33)
+![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33)
