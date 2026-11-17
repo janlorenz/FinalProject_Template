@@ -236,13 +236,8 @@ Horst](https://allisonhorst.com/git-github)
 
 ![](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/7a5f458a-3d63-4e46-8a09-c417e52587ea.png?h=488d2d9a4159f82cdf851a70182e52e6)
 
-A more advanced github workflow also includes branches and pull
-requests. Here you get a first idea. You may create a branch to test a
-new version while the `main` version should stay in place. In larger
-projects, not everyone working with a local version of a repo has push
-access, but when someone wants to propose a new better version to the
-project maintainers (who have push access) they can make a pull request.
-The maintainer then checks it and pulls it into the `main` branch.
+Now, that you have some practical experience with git and GitHub, you
+can take a look at a more advanced git-based workflow.
 
 ![Cartoon showing paths between local and remote git repositories. White
 bunnies push packages around representing git-tracked file changes. One
@@ -254,3 +249,25 @@ Request above the speech bubble) while a bunny in the remote main branch
 says “everything looks good, bring it on over!” A bunny pulls a cart
 from the remote branch to remote main, with text “merge” next to
 it.](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/efae32ce-863f-4773-852c-4335e3ce4709_rw_3840.png?h=c54a2e5af240ec6e1332e2dcacbd7f33)
+
+- Git allows you to define different branches in a repository. A
+  **branch** is an independent version of the project. By default, you
+  work on the branch `main`. You can create new branches to work on new
+  features. Doing this keeps a clean, working version safe in `main`
+  while you experiment freely in your new branch. Later you can feed
+  your changes back into `main`.
+- In collaborative projects, pushing directly to main is usually blocked
+  for everyone (even maintainers) to prevent accidents. Instead, team
+  members push their own branches or, for open-source projects where
+  they lack push access, push to a personal copy called a **fork**. When
+  the work is ready, they open a **pull request** on a platform like
+  GitHub so maintainers can review, test, and merge it into main.
+
+For small data science project teams it is usually not necessary to use
+branches, because the project has a limited time frame and a small
+number of members. Further on, our goal in data analysis is typically
+centered around a human-readable report, not a service or app running
+live (this would be called code in *production*). So, suboptimal or
+error-prone code by accident is not stopping an app from functioning. It
+is not desirable, but not a disaster. We care mostly about the final
+product, the report.
